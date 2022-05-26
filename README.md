@@ -1,0 +1,1 @@
+# .Net6_Vue2_Template
